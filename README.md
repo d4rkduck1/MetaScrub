@@ -1,6 +1,6 @@
 # MetaScrub
 
-Recursively strip all metadata from files. PDFs are fully rebuilt with Ghostscript for guaranteed removal.
+Remove metadata from files. PDFs get full reconstruction treatment.
 
 ## Requirements
 
