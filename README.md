@@ -24,7 +24,7 @@ sudo apt install libimage-exiftool-perl ghostscript
 ## Installation
 
 ```bash
-git clone https://github.com/your-username/metascrub.git
+git clone https://github.com/d4rkduck1/metascrub.git
 cd metascrub
 chmod +x metascrub.sh
 ```
