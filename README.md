@@ -26,7 +26,7 @@ chmod +x metascrub.sh
 ./metascrub.sh /path/to/directory
 
 # Example
-./metascrub.sh ~/Downloads
+./metascrub.sh ~/Downloads/
 ```
 
 ## Supported Formats
