@@ -4,7 +4,7 @@ Remove metadata recursively. Fully rebuilds PDFs for guaranteed cleanup.
 
 ## Requirements
 
-- `exiftool` - Metadata removal
+- `exiftool`
 - `ghostscript` - PDF reconstruction
 - `zsh`
 
