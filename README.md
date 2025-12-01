@@ -1,6 +1,6 @@
 # MetaScrub
 
-Remove metadata from files. PDFs get full reconstruction treatment.
+Remove metadata recursively. Fully rebuilds PDFs for guaranteed cleanup.
 
 ## Requirements
 
