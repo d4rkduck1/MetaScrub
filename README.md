@@ -8,19 +8,6 @@ Remove metadata recursively. Fully rebuilds PDFs for guaranteed cleanup.
 - `ghostscript` - PDF reconstruction
 - `zsh`
 
-### Install Dependencies
-
-**macOS:**
-```bash
-brew install exiftool ghostscript
-```
-
-**Linux:**
-```bash
-# Ubuntu/Debian
-sudo apt install libimage-exiftool-perl ghostscript
-```
-
 ## Installation
 
 ```bash
